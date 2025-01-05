@@ -1,6 +1,12 @@
 # Ola-Booking-Analytics
 This project focuses on analyzing and visualizing key metrics and trends in Ola ride-booking data. The goal is to provide actionable insights into customer behavior, ride performance, and operational efficiency. The dashboard leverages data analysis and visualization techniques to answer critical business questions.
 
+Dashboard Link - https://app.powerbi.com/groups/me/reports/98c1eca0-623c-4cc9-b896-d3ad1cf106a8/6eb61d258c25b75960af?experience=power-bi
+
+Dashboard Image - 
+![Screenshot (36)](https://github.com/user-attachments/assets/5eb84fbb-9923-4198-8bb3-f521e781c3b1)
+
+
 Features
 
 1. Data Analysis Using MySQL
