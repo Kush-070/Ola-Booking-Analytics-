@@ -34,5 +34,6 @@ Cleaned Dataset
 Technologies Used
 
 MySQL: For data extraction and analysis.
+
 Power BI: To create the interactive dashboard.
 
